@@ -4,6 +4,8 @@
  </p>
 </a>
 
+# Hydro OS is now discontinued, it's successor, VNux is now [available](https://gitlab.com/VNux)
+
 ## English version
 ## A free, fast and friendly Linux distro based on Arch Linux and LFS (Linux From Scratch)
 ### 1. What is Hydro OS?
