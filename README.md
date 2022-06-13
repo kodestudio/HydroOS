@@ -4,7 +4,7 @@
  </p>
 </a>
 
-# Hydro OS is now discontinued for a short time. It's successor, VNux is now [available](https://gitlab.com/VNux). Waiting for PeanutOS!
+# Hydro OS is now discontinued. It's successor, [VietTix Linux](https://viettixlinux.pages.dev) is now available. Waiting for PeanutOS!
 
 ## English version
 ## A free, fast and friendly Linux distro based on Arch Linux and LFS (Linux From Scratch)
